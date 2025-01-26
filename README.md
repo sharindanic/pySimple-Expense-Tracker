@@ -1,6 +1,6 @@
 # Simple Expense Tracker
 
-A Python command-line application to manage and track your daily expenses. This project is beginner-friendly and showcases basic Python concepts such as lists, loops, and functions.
+A Python command line application to manage and track your daily expenses 
 
 ## Features
 - **Add Expenses**: Record the date, description, and amount for each expense.
